@@ -48,4 +48,4 @@ If you would like to run this yourself with your own data, download all of your 
 Then use the notebook “SVM_SGDR.ipynb“ for our best model. It is labled "Tuned SGD Classifier".
 
 ## Credits
-By Lois Rosenbloom and Luke Borsare
+By Lois Rosenbloom and Luke Borsare.
