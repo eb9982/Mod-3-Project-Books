@@ -1,6 +1,6 @@
 # Mod-3-Project-Books
 
-# Predicting Authors of Books
+# Predicting Authors of Book
 
 ## Motivation
 We wanted to see if we could predict an author of a book by it’s text using NLP and Machine Learning. Our goal was to create a model that we could input a book (or smaller passages) to predict the author.  We are hopeful that given enough data a more expansive version of this model could be used in plagarism detection and aid in the identification of unidentified texts.
